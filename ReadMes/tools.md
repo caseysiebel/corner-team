@@ -6,6 +6,7 @@ Development
 
 Architecture
 - Isomorphic
+- Open Table API
 
 Dev Ops
 - Serverless + Lambda
