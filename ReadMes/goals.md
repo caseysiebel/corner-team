@@ -1,0 +1,8 @@
+- Have fun!
+- Network
+- Build a product
+- Product Design archiecture
+- Learn new well as team
+- Work towards something meaning full
+- Use a hackathon API
+- Win some prize
