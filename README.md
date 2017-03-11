@@ -12,9 +12,9 @@ Rotten Tomatoes style restaurant rating/review system
 
 ## Stack
 
-MongoDB
-NodeJS
-Webpack
-Serverless
-Semantic UI
-Open Table API
+- MongoDB
+- NodeJS
+- Webpack
+- Serverless
+- Semantic UI
+- Open Table API
